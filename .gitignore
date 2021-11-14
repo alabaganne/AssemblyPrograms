@@ -4,3 +4,6 @@
 *.obj
 *.MAP
 *.WCF
+*.dll
+*.bat
+*.ovl
